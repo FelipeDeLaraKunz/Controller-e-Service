@@ -26,8 +26,8 @@ Contador de Caracteres;
 
 ![Print 4](printPar4.png)
 
-![Print 5](PrintSaudacao.png)
+![Print 5](printSaudacao.png)
 
-![Print 6](PrintSaudacao2.png)
+![Print 6](printSaudacao2.png)
 
-![Print 7](PrintSaudacao3.png)
+![Print 7](printSaudacao3.png)
